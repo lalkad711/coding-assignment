@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<jaxb:bindings version="3.0"
+  xmlns:jaxb="https://jakarta.ee/xml/ns/jaxb"
+  xmlns:xjc="http://java.sun.com/xml/ns/jaxb/xjc"
+  xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  jaxb:extensionBindingPrefixes="xjc">
+  
+ <jaxb:globalBindings>
+    <xjc:simple />
+    <xjc:serializable uid="-1" />
+    <jaxb:javaType name="java.time.LocalDate" xmlType="xs:date"
+      parseMethod="se.seb.embedded.coding_assignment.details.utils.Utils.parseDateForXml"
+      printMethod="se.seb.embedded.coding_assignment.details.utils.Utils.printDateForXml" />
+    <jaxb:javaType name="java.math.BigDecimal" xmlType="xs:nonNegativeInteger" />
+  </jaxb:globalBindings>
+</jaxb:bindings>

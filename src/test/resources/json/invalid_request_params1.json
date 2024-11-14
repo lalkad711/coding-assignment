@@ -1,0 +1,11 @@
+{
+  "transactions": [
+    {
+      "amount": 0,
+      "accountNumber": "",
+      "transType": "DEBIT",
+      "dateOfTransaction": "",
+      "currency": ""
+    }
+  ]
+}

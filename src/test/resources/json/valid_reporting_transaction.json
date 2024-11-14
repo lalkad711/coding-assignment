@@ -1,0 +1,65 @@
+[
+	{
+		"amount": 65489.124,
+		"accountNumber": "8327947851255892",
+		"transType": "DEBIT",
+		"dateOfTransaction": "2007-12-03",
+		"currency": "SEK"
+	},
+	{
+		"amount": 20,
+		"accountNumber": "8327947851255892",
+		"transType": "CREDIT",
+		"dateOfTransaction": "2007-12-03",
+		"currency": "SEK"
+	},
+	{
+		"amount": 40,
+		"accountNumber": "8327947851255892",
+		"transType": "DEBIT",
+		"dateOfTransaction": "2007-12-03",
+		"currency": "SEK"
+	},
+	{
+		"amount": 60,
+		"accountNumber": "8327947851255892",
+		"transType": "CREDIT",
+		"dateOfTransaction": "2007-12-03",
+		"currency": "SEK"
+	},
+	{
+		"amount": 63.64,
+		"accountNumber": "8327947851255893",
+		"transType": "DEBIT",
+		"dateOfTransaction": "2007-12-03",
+		"currency": "SEK"
+	},
+	{
+		"amount": 200,
+		"accountNumber": "8327947851255894",
+		"transType": "CREDIT",
+		"dateOfTransaction": "2007-12-03",
+		"currency": "SEK"
+	},
+	{
+		"amount": 63.64,
+		"accountNumber": "8327947851255893",
+		"transType": "DEBIT",
+		"dateOfTransaction": "2007-12-04",
+		"currency": "SEK"
+	},
+	{
+		"amount": 200,
+		"accountNumber": "8327947851255894",
+		"transType": "CREDIT",
+		"dateOfTransaction": "2007-12-05",
+		"currency": "SEK"
+	},
+	{
+		"amount": 400,
+		"accountNumber": "8327947851255895",
+		"transType": "CREDIT",
+		"dateOfTransaction": "2007-12-06",
+		"currency": "SEK"
+	}
+]

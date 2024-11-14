@@ -1,0 +1,9 @@
+{
+  "transactions": [
+    {
+      "transType": "DEBIT",
+      "dateOfTransaction": "2007-12-03",
+      "currency": ""
+    }
+  ]
+}
